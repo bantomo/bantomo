@@ -1,16 +1,19 @@
-## Hi there 👋
+# Chào bạn, mình là [Tên của bạn] 👋
 
-<!--
-**bantomo/bantomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là một sinh viên đam mê Kỹ thuật Máy tính và luôn thích thú với việc tìm hiểu, xây dựng các giải pháp phần mềm mới.
 
-Here are some ideas to get you started:
+### 👨‍💻 Về bản thân mình:
+* 🎓 Mình đang theo học tại **Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU)**.
+* 🌱 Hiện tại mình đang tập trung phát triển các dự án như **hệ thống nhận diện làn đường bằng AI** và ứng dụng thương mại điện tử **Ecomarket**.
+* 💡 Mình có sự quan tâm đặc biệt đến Web Development, tối ưu hóa cơ sở dữ liệu và các công cụ lập trình AI thế hệ mới.
+* 💬 Hãy hỏi mình về: **Java, C++, SQL** hoặc các vấn đề về phần cứng máy tính.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kỹ năng & Công nghệ (Tech Stack):
+* **Ngôn ngữ:** Java, C++, JavaScript
+* **Web/Backend:** HTML/CSS, Spring Boot, Maven, WordPress
+* **Database:** SQL
+* **Công cụ:** Git, Cursor, Windsurf
+
+### 📫 Cách liên hệ với mình:
+* 📧 Email: [Địa chỉ email của bạn]
+* 💼 LinkedIn: [Link LinkedIn của bạn]
